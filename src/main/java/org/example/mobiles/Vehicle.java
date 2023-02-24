@@ -1,4 +1,4 @@
-package org.example.vehicles;
+package org.example.mobiles;
 
 public abstract class Vehicle implements Mobile {
     private int maxSpeed;

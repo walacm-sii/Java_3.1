@@ -1,4 +1,4 @@
-package org.example.vehicles;
+package org.example.mobiles;
 
 public class Truck extends Vehicle {
     public Truck(int maxSpeed) {

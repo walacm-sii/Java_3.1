@@ -1,4 +1,4 @@
-package org.example.vehicles;
+package org.example.mobiles;
 
 public class Human implements Mobile, Talkable {
     @Override

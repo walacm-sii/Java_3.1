@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.vehicles.*;
+import org.example.mobiles.*;
 
 import java.util.List;
 import java.util.Random;
